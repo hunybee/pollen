@@ -1,15 +1,23 @@
 body{
 	margin: 0;
 	text-align: center;
-	background-color: lightgrey;
+	background-color: white;
 }
 header{
-	text-align: center;
+	align-content: center;
 	background-color: white;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
-main{
-	font-family: 'Playfair Display', serif;;
-	font-size: 11px;
+h2{
+	font-size: 30;
+	color: grey;
+	font-family: 'Alice', serif;
+}
+
+p{
+	font-family: 'Playfair Display', serif;
+	font-size: 10px;
+	max-width: 300px;
+	margin: 0 auto;
 }
